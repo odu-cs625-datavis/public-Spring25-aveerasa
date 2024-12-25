@@ -158,7 +158,7 @@ Any assignment submitted after its deadline is considered late. Late assignments
 
 *Note: This is a tentative schedule and may change during the semester. The complete schedule with assignments and due dates will be posted on Canvas.*
 
-[ODU Fall academic schedule](https://www.odu.edu/academics/calendar/fall)
+[ODU Spring academic schedule](https://www.odu.edu/academics/calendar/spring)
 
 |Week |Date|Topic| Textbook Reading|Resources and Assignments|
 |---|---|---|---|---|
