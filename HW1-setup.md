@@ -221,7 +221,7 @@ In the References section in your report, include links to any examples that you
 
 ## Submission
 
-You should be working in the private GitHub repo that I created for you in the [odu-cs625-datavis organization](https://github.com/odu-cs625-datavis/) (your repo URL should look something like https<nolink>://github.com/odu-cs625-datavis/Spring24-asv-*username*/). 
+You should be working in the private GitHub repo that I created for you in the [odu-cs625-datavis organization](https://github.com/odu-cs625-datavis/) (your repo URL should look something like https<nolink>://github.com/odu-cs625-datavis/Spring25-asv-*username*/). 
 
 If you are working locally, make sure that you have committed and pushed your local repo, including `HW1-report.md` and any images you reference, to GitHub. 
 
@@ -230,7 +230,7 @@ Submit the URL of your report in Canvas:
 * Click on HW1 under Week 1 in Canvas.
 * Under "Assignment Submission", click the "Write Submission" button.
 * Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/odu-cs625-datavis/Spring24-asv-*username*/blob/main/HW1-report.md
+  * should be something like https<nolink>://github.com/odu-cs625-datavis/Spring25-asv-*username*/blob/main/HW1-report.md
 * Make sure to "Submit" your assignment.
 
 If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.
