@@ -99,7 +99,7 @@ Your grade in this class will be based on the following components:
 
 * demonstrates basic understanding of reading assignment
 * assigned weekly
-* I will not correct your answers, but correct answers with references will be viewable in Canvas after the due date
+* Your answers wil be checked and correct answers with references will be viewable in Canvas after the due date
 * rubric (0-2):
   * 2 pts - answered all questions correctly and submitted on time
   * 1 pt - did not answer all questions or any of the answers is/are wrong.
@@ -150,7 +150,7 @@ The overall grading scale is as follows:
 Any assignment submitted after its deadline is considered late. Late assignments lose 1 point for first 24 hours they are late. Submissions over 24 hours late are not accepted. This time limit includes weekends -- they are counted just like weekdays.
 
 * 0-24 hours late: -1 point
-* * over 24 hours late: not accepted
+* over 24 hours late: not accepted
 
  I reserve the right to specify that late submissions will not be accepted for particular assignments.
 
@@ -199,8 +199,6 @@ To use AI tools to help improve your writing, you should write your answer first
 For all homework assignments, you must include a list of websites or other references that you consult in solving the assignment. This includes AI tools. Not only must you include the website for the tool, but you must include a link to, or screenshot of, the conversation you had with the tool. (ChatGPT has the option to create a link to a conversation.) You must also write out in your HW report the initial prompt that you used.
 
 I would also like to know how you have been using AI tools. Have you used these to help learn a new API or programming language? To help correct spelling and grammar or otherwise improve your writing?  Please share any useful prompts you've discovered to the "Useful AI Prompts" Discussion board in Canvas.
-
-**Extra Credit:** If you find an error when using an AI tool for something related to our course content, including a programming error, you can submit this for potential extra credit. Email the instructor with the link to or screenshot of the conversation and an explanation of what was incorrect and how to correct it.
 
 For some tips on safe usage of ChatGPT as a student, see [CS 625 Student Use of ChatGPT and Other Generative AI Tools](chat-gpt.md).
 
