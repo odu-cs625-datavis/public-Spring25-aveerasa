@@ -162,7 +162,7 @@ Any assignment submitted after its deadline is considered late. Late assignments
 
 |Week |Date|Topic| Textbook Reading|Resources and Assignments|
 |---|---|---|---|---|
-|1| Jan 14, 16| What's Vis and Why Do It? | Ch 1| HW0 - GitHub and observable accounts - Due: Jan 13, 2025 & HW1 - Tools Setup - Due: Jan 26, 2025|
+|1| Jan 14, 16| What's Vis and Why Do It? | Ch 1| HW0 - GitHub and observable accounts - Due: Jan 16, 2025 & HW1 - Tools Setup - Due: Jan 26, 2025|
 |2| Jan 21, 23| Data and Data Cleaning | Ch 2| HW2 - Data Cleaning - Due: Feb 09, 2025|
 |3| Jan 28, 30| Marks and Channels |Ch 5|
 |4| Feb 04, 06| Arrange Tables | Ch 7 | HW3 - Due: Feb 23, 2025|
@@ -173,7 +173,7 @@ Any assignment submitted after its deadline is considered late. Late assignments
 |9| Mar 11, 13| Exploratory Data Analysis (EDA) | HW5  - Due: Mar 23, 2025|
 |10| Mar 18, 20| Multiple views|Ch 12 | |
 |11| Mar 25, 27| Maps, Rules of Thumb, Chart Design| Ch 81.-8.3 Ch 6| |
-|12| Apr 01, 03| Storytelling vis|Project mile stone 2 due Apr 06, 2025|
+|12| Apr 01, 03| Storytelling vis| |Project mile stone 2 due Apr 06, 2025|
 |13| Apr 08, 10| Visualization Literacy part I|
 |14| Apr 15, 17| Visualization Literacy part II| Work on project |
 |15| Apr 22, 24|Project Demos|  |Final report, chart, and video - Apr 20, 2025, Peer feedback  - Apr 21, 2025 |
