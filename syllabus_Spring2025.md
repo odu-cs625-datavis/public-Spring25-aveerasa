@@ -44,7 +44,7 @@ After completing this course, you should be able to do the following:
 
 This course will be offered in the online asynchronous mode.
 
-All course materials will be made available in Canvas (<https://canvas.odu.edu/courses/177656>) or via GitHub (<https://github.com/odu-cs625-datavis/-public-Spring25-aveerasa>).
+All course materials will be made available in Canvas (<https://canvas.odu.edu/courses/177656>) or via GitHub (<https://github.com/odu-cs625-datavis/public-Spring25-aveerasa>).
 
 ### How to Be Successful in This Course
 
