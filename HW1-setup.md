@@ -1,6 +1,6 @@
 # Homework 1: Tool Setup
 
-**Due:** September 08, 2024 by 11:59pm  
+**Due:** January 26, 2025 by 11:59pm  
 
 The goal of this week's assignment is to get you set up for the rest of the semester.  You'll explore Git and GitHub, Markdown, Tableau, Google Colab, Seaborn, and Observable with Vega-Lite.
 
@@ -38,7 +38,7 @@ The first step is to create a GitHub account. I recommend a username that incorp
 
 Next, you need to let me know your GitHub username so that I can create a private repository (repo) for you in our class organization. This private repo will be visible only to you and me, and it's what you'll use to store your homework assignments.  Use [GitHub Issues](https://github.com/features/issues) to let me know your username:
 
-* Open our public class repository, <https://github.com/odu-cs625-datavis/public-Fall24-aveerasa>
+* Open our public class repository, <https://github.com/odu-cs625-datavis/public-Spring25-aveerasa>
 * Click on the **Issues** tab at the top
 * Create a new issue
 * The title should be your name and your GitHub username.  You should see my example in the list of Issues.
@@ -79,11 +79,11 @@ To get started on your report, copy the report template into a new file in your 
 
 Edit your `HW1-report.md` and answer the following questions:
 
-What is the URL of the new GitHub repo that you created in your personal account?
-
-In which direction does the 'push' command work (does it send local changes to remote OR send remote changes to local)?
-
-If you have committed a change on your local machine, but do not see the update on GitHub.com, what step might have you forgotten?
+*What is the URL of the GitHub repo that you created in your personal account?*
+   
+*What is pull vs clone in GitHub?*
+   
+*You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
 
 ## Markdown
 
@@ -114,7 +114,7 @@ Use the guides above to help you complete the following exercises in `HW1-report
 
 Create a bulleted list with at least 3 items.
 
-Write a single paragraph that demonstrates the use of *italics*, **bold**, ***bold italics***, `code`, and includes a link. The paragraph must explain your favorite Olympic sport/game (why you love this sport/game for example), the country that won the most olympic medals in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information. 
+Write a single paragraph that demonstrates the use of *italics*, **bold**, ***bold italics***, `code`, and includes a link. The paragraph must explain your favorite Olympic sport/game (why you love this sport/game for example), the country that won the most olympic GOLD medals in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information. 
 
 Create a level 3 heading.
 
@@ -128,7 +128,7 @@ For this assignment, go through the [Get Started with Tableau Desktop tutorial](
 
 #### Items for Report
 
-Clone the file <Paris_Olympics2024.xlsx> (https://github.com/odu-cs625-datavis/public-Fall24-aveerasa/blob/main/Paris_Olympics2024.xlsx) from my repository (data taken from https://olympics.com/en/paris-2024/medals?utm_campaign=dp_google) and connect that to Tableau to design a horizontal bar chart. Your bar chart should display the countries that won most number of medals by continent. Save the chart as an image (*don't just take a screenshot*). Save the image file in your repo (*no spaces in the filename*) and include the image in your `HW1-report.md`.  
+Clone the file <Paris_Olympics2024.xlsx> (https://github.com/odu-cs625-datavis/public-Spring25-aveerasa/blob/main/Paris_Olympics2024.xlsx) from my repository (data taken from https://olympics.com/en/paris-2024/medals?utm_campaign=dp_google) and connect that to Tableau to design a horizontal bar chart. Your bar chart should display the countries that won the least number of medals only (excluding ZERO) in Paris2024 Summer Olynpics by continent (one country from each continent is ok ---*don't just take a screenshot*). Save the image file in your repo (*no spaces in the filename*) and include the image in your `HW1-report.md`.  
 
 ## Google Colab
 
@@ -221,7 +221,7 @@ In the References section in your report, include links to any examples that you
 
 ## Submission
 
-You should be working in the private GitHub repo that I created for you in the [odu-cs625-datavis organization](https://github.com/odu-cs625-datavis/) (your repo URL should look something like https<nolink>://github.com/odu-cs625-datavis/Fall24-asv-*username*/). 
+You should be working in the private GitHub repo that I created for you in the [odu-cs625-datavis organization](https://github.com/odu-cs625-datavis/) (your repo URL should look something like https<nolink>://github.com/odu-cs625-datavis/Spring24-asv-*username*/). 
 
 If you are working locally, make sure that you have committed and pushed your local repo, including `HW1-report.md` and any images you reference, to GitHub. 
 
@@ -230,7 +230,7 @@ Submit the URL of your report in Canvas:
 * Click on HW1 under Week 1 in Canvas.
 * Under "Assignment Submission", click the "Write Submission" button.
 * Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/odu-cs625-datavis/Fall24-asv-*username*/blob/main/HW1-report.md
+  * should be something like https<nolink>://github.com/odu-cs625-datavis/Spring24-asv-*username*/blob/main/HW1-report.md
 * Make sure to "Submit" your assignment.
 
 If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.

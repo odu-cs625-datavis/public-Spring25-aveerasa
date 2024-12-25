@@ -1,13 +1,13 @@
-# HW 1 - CS 625, Fall 2024
+# HW 1 - CS 625, Spring 2025
 
 Insert Your Name Here  
-Due: September 08, 2024
+Due: January 26, 2025
 
 ## Git, GitHub
 
 *What is the URL of the GitHub repo that you created in your personal account?*
    
-*In which direction does the 'push' command work (send local changes to remote OR send remote changes to local or something else)?*
+*What is pull vs clone in GitHub?*
    
 *You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
 
@@ -15,7 +15,7 @@ Due: September 08, 2024
 
 *Create a bulleted list with at least 3 items*
 
-*Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.*
+*Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.*
 
 *Create a level 3 heading*
 
@@ -23,7 +23,7 @@ Due: September 08, 2024
 
 ## Tableau
 
-*Insert the image of your horizontal bar chart here. Reminder, this should show countries that won most number of medals in Paris2024 Summer Olynpics by continent.*
+*Insert the image of your horizontal bar chart here. Reminder, this should show countries that won the least number of medals only (excluding ZERO) in Paris2024 Summer Olynpics by continent (one country from each continent is ok).*
 
 ## Google Colab
 
