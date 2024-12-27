@@ -2,7 +2,7 @@
 
 **Due:** Saturday, April 20, 2025 by 11:59pm
 
-The main goal of this project is for you to take the knowledge and background that you are learning this semester about data visualization and put it to good use in a new, creative effort.  The end product is an interactive *explanatory data analysis based* visualization (i.e., a single chart or group of charts presented in a single panel) that reveals something interesting.  (Three previous projects are highlighted in this [blog post](https://ws-dl.blogspot.com/2022/12/2022-12-02-visualization-class-projects.html) under the CS 625 heading, though note that they had a slightly different assignment.)
+The main goal of this project is for you to take the knowledge and background that you are learning this semester about data visualization and put it to good use in a new, creative effort.  The end product is an interactive *explanatory data analysis based* visualization (i.e., Group of charts presented in a single panel) that reveals something interesting.  (Three previous projects are highlighted in this [blog post](https://ws-dl.blogspot.com/2022/12/2022-12-02-visualization-class-projects.html) under the CS 625 heading, though note that they had a slightly different assignment.)
 
 This project has two internal milestones with suggested deadlines. If you submit your milestone by the suggested deadline, then I will provide some feedback on that part of the project. I cannot guarantee to provide timely feedback on items submitted after the suggested deadlines. Also, the earlier you submit your milestone, the earlier you can receive feedback that can be applied to the next part of the project.
 
@@ -10,9 +10,9 @@ This project has two internal milestones with suggested deadlines. If you submit
 |---|---|---|
 |1|choose your topic, potential datasets, brainstorm interesting questions|Sunday, March 02, 2025|
 |2|explore data, narrow questions, sketch proposed charts|Sunday, April 06, 2025|
-|final|final chart and report|Sunday, April 20,2025 11:59 pm|
-|Demo Video|Sunday, April 20,2025 11:59 PM|
-|Peer review -Demo Video|Monday, April 21,2025 11:59 PM|
+|final|final chart and report|Sunday, April 20, 2025 11:59 pm|
+|Demo Video|Sunday, April 20, 2025 11:59 PM|
+|Peer review -Demo Video|Monday, April 21, 2025 11:59 PM|
 
 The due date for semester project is: Saturday, April 20, 2025 by 11:59pm.
 
@@ -69,7 +69,7 @@ Post the following information in the [Project Milestone 2 - Sketches](https://c
 
 * topic
 * final data source, with URL
-* refined questions
+* TWO refined questions
 * pictures of your sketches, with enough explanation so that they can be understood
 
 ## Final Chart(s)
