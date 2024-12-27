@@ -105,7 +105,7 @@ For this assignment, your GitHub repository should include the following files:
 *  any images that you reference in your report
 
 Submit the URL of your report (*not the URL of your repo*) in Canvas under HW2. This should be something like  
-https<nolink>://github.com/odu-cs625-datavis/Fall24-asv-*username*/blob/main/HW2-report.md
+https<nolink>://github.com/odu-cs625-datavis/Spring2025-asv-*username*/blob/main/HW2-report.md
 
 *If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.*
 Reference:
