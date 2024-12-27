@@ -1,10 +1,10 @@
 # Homework 2: Data Cleaning
 
-**Due:** September 22, 2024 by 11:59pm  
+**Due:** Februrary  09, 2025 by 11:59pm  
 
 The goal of this week's assignment is to gain experience using OpenRefine for data cleaning.  
 
-**Note:** This assignment assumes that you have already downloaded and installed [OpenRefine](https://openrefine.org) version 3.7.4 or above and worked through the OpenRefine tutorial from Week 2 of CS 625.
+**Note:** This assignment assumes that you have already downloaded and installed [OpenRefine](https://openrefine.org) version 3.8 or above and worked through the OpenRefine tutorial from Week 2 of CS 625.
 
 ## Assignment
 
@@ -18,7 +18,7 @@ As for all reports, there should be a "References" section that includes links t
 
 ### Part 1. Data Cleaning
 
-Create a new project in OpenRefine and load the movies.csv dataset available in <https://github.com/odu-cs625-datavis/public-Fall24-aveerasa>. OR you can download it from <https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv>. If you view the raw version of the data file in GitHub, you can copy that URL directly into OpenRefine to load the data without downloading it separately.
+Create a new project in OpenRefine and load the movies.csv dataset available in <https://github.com/odu-cs625-datavis/public-Spring25-aveerasa>. OR you can download it from <https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv>. If you view the raw version of the data file in GitHub, you can copy that URL directly into OpenRefine to load the data without downloading it separately.
 
 Use OpenRefine to clean the dataset of movies so that you can answer the questions in Part 2. Look at the questions before you start cleaning so that you know what fields to pay attention to. Take notes and keep track of all operations you perform. As much as you can, use OpenRefine facets and GREL transforms to clean the data rather than manual editing (though, some cleaning needs to be done manually).
 1.	Remove rows/columns:
@@ -85,9 +85,9 @@ Extract JSON scripts containing all of the operations you performed on the file 
 Use the cleaned data to answer the following questions in your report (and explain how you arrived at the answers):
 
 1.	How many movies were listed as “Super Hit” in the year 2021?
-2.	Which movie got lowest rating in the years 2018 to 2020 (excluding 0)?
-3.	List the top 3 genres (no duplicates) that got highest number of votes (excluding 0)
-4.	Name the director who directed the 10 minutes run time movie in the year 2020 that received lowest number of votes. The output must list name of the movie, number of votes, and genre. 
+2.	Which movie got highest rating in the years 2018 to 2020  by genre [one movie for each genre]?
+3.	List the top 3 genres (no duplicates) that got lowest number of votes (excluding 0)
+4.	Name the director who directed the 10 minutes run time movie in the year 2020 that received highest number of votes. The output must list name of the movie, number of votes, and genre. 
 5.	List the top 5 movies that received highest number of votes, but verdict is “Flop” 
 
 
