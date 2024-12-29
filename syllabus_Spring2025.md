@@ -170,9 +170,9 @@ Any assignment submitted after its deadline is considered late. Late assignments
 |6| Feb 18, 20| Map color and Other channels | Ch 10 | HW4 - Due: Mar 16, 2025|
 |7| Feb 25, 27| Reduce Items and Attributes| Ch 13| Project mile stone 1 due Mar 02, 2025|
 |8| Mar 06| Tue: **NO CLASS-self-study**<br/>Thu: **MID-TERM EXAM** Mar 06,2025 | |
-|9| Mar 11, 13| Exploratory Data Analysis (EDA) | HW5  - Due: Mar 23, 2025|
+|9| Mar 11, 13| Exploratory Data Analysis (EDA) | | HW5  - Due: Mar 23, 2025 |
 |10| Mar 18, 20| Multiple views|Ch 12 | |
-|11| Mar 25, 27| Maps, Rules of Thumb, Chart Design| Ch 81.-8.3 Ch 6| |
+|11| Mar 25, 27| Maps, Rules of Thumb, Chart Design| Ch 8.1-8.3 Ch 6| |
 |12| Apr 01, 03| Storytelling vis| |Project mile stone 2 due Apr 06, 2025|
 |13| Apr 08, 10| Visualization Literacy part I|
 |14| Apr 15, 17| Visualization Literacy part II| Work on project |
