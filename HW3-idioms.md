@@ -1,9 +1,9 @@
 # Homework 3: Create Visualization Idioms from Real-World Data
-**Due:** October 06, 2024 by 11:59pm  
+**Due:** February 23, 2025 by 11:59pm  
 
 ## Assignment
 
-The goal of this assignment is to give you experience creating charts from real-world data. You will be using GitHub dataset(s) to create a bar chart (any type), a scatterplot, and a multiple line chart using at least two different visualization tools.
+The goal of this assignment is to give you experience creating charts from real-world data. You will be using GitHub dataset(s) to create a bar chart (any type), a scatterplot, and a multiple line chart using at least two different visualization tools/software including Python's Seaborn, Vega altair, Vega-Lite, MS-Excel, Tableau. However, it should be noted one of your charts must have been created by using Python library/JavaScript-ObservableQ or any other programming languages based coding. 
 
 ## Data
 
@@ -14,8 +14,8 @@ Here are some tips for dealing with the data:
 * Select the dataset(s) that contains >=4 columns and 500 rows atleast
 * Some of these dataset folders contains many .csv files. combine those and make it as single dataset.  
 * You don't have to keep the data in the same format as the original spreadsheet.
-* You can do whatever is needed to get the data in the proper format for your visualization tool, it doesn't have to be done via programming. However, data preprocessing must have been done before data visualization. 
-* You don't have to use the same dataset for each type of idiom, as not all idioms will be appropriate for every dataset. That is, you can use 3 different dataset 
+* You can do whatever is needed to get the data in the proper format for your visualization tool/software/programming languages. However, data preprocessing must have been done before data visualization. 
+* Don't use the same dataset for each type of idiom, as not all idioms will be appropriate for every dataset. That is, you can use 3 different dataset 
 for differnt idioms
 * Select and design suitable chart(s) with meaningful title and labels [Don't think too much - we are just looking for simple charts that convey sense making info to the stakeholders] 
 *There are many different datasets here. We expect to see variety in the datasets that are chosen and in what is chosen to be visualized.*
@@ -31,7 +31,7 @@ As stated above, create charts using three different idioms:
 All of the charts must have a similar style ("look and feel") and must have meaningful axis labels. In addition, your charts must adhere concepts/principles/techniques explained in Chapter 5 and 7. That is, Expressiveness and Effectiveness (discreminablity, separability, pop out, separate, order & align and categorical regions :not all but the most)
 
 
-After you have created the three charts, you must **recreate** one of the charts using a different tool. This recreation should look as close as possible to the original.
+After you have created the three charts, you must **recreate** one of these three charts using a different software tool. This recreation should look as close as possible to the original.
 
 In summary, you will be creating **four charts**: three charts using one tool, and the fourth chart using a different tool.
 
@@ -94,7 +94,7 @@ You should be working in the private GitHub repo that was created for you in the
 
 Submit the URL of your report (not the URL of your repo) in Canvas under HW3. This should be something like
 
-`https://github.com/odu-cs625-datavis/Fall24-asv-username/blob/main/HW3-report.md` 
+`https://github.com/odu-cs625-datavis/Spring25-asv-username/blob/main/HW3-report.md` 
 
 *If you make changes to your report after submitting in Canvas, we will use the last commit time in your repo as your assignment submission time.*
 
