@@ -42,7 +42,7 @@ After completing this course, you should be able to do the following:
 
 ## Course Delivery Method
 
-This course will be offered in the online synchronous mode.
+This course will be offered both in person and online synchronous mode at the same time.
 
 All course materials will be made available in Canvas (<https://canvas.odu.edu/courses/177656>) or via GitHub (<https://github.com/odu-cs625-datavis/public-Spring25-aveerasa>).
 
