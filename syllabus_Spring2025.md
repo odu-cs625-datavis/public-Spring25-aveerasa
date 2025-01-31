@@ -169,7 +169,7 @@ Any assignment submitted after its deadline is considered late. Late assignments
 |5| Feb 11, 13| Tour through the Visualization Zoo | | Semester Project|
 |6| Feb 18, 20| Map color and Other channels | Ch 10 | HW4 - Due: Mar 16, 2025|
 |7| Feb 25, 27| Reduce Items and Attributes| Ch 13| Project mile stone 1 due Mar 02, 2025|
-|8| Mar 06| Tue: **NO CLASS-self-study**<br/>Thu: **MID-TERM EXAM** Mar 06,2025 | |
+|8| Mar 06| Tue: **Zoom :Q & A **<br/>Thu: **MID-TERM EXAM** Mar 06,2025 | |
 |9| Mar 11, 13| Exploratory Data Analysis (EDA) | | HW5  - Due: Mar 23, 2025 |
 |10| Mar 18, 20| Multiple views|Ch 12 | |
 |11| Mar 25, 27| Maps, Rules of Thumb, Chart Design| Ch 8.1-8.3 Ch 6| |
@@ -235,6 +235,26 @@ All students are responsible for knowing the rules. If you are unclear about whe
 
 ## ODU Counseling Services and Student Outreach & Support
 
-ODU’s [Office of Counseling Services](https://odu.edu/counselingservices) (located upstairs in the Student Recreation and Well-being Center) is a university agency with competent, diverse, and multidisciplinary professional staff. They are committed to supporting the emotional well-being, social development, and academic progress of all students at Old Dominion University. College life can be a wonderful time of self-discovery, but for many, it is also a time when the awareness of mental health conditions increases. OCS services are available to assist with addressing mental health concerns that a student may be experiencing. All services are free to ODU students.
+ODU's [Office of Counseling Services](https://odu.edu/counselingservices) (located upstairs in the Student Recreation and Well-being Center) is a university agency with competent, diverse, and multidisciplinary professional staff. They are committed to supporting the emotional well-being, social development, and academic progress of all students at Old Dominion University. College life can be a wonderful time of self-discovery, but for many, it is also a time when the awareness of mental health conditions increases. OCS services are available to assist with addressing mental health concerns that a student may be experiencing. All services are free to ODU students.
 
 [ODU Student Outreach & Support (SOS)](https://www.odu.edu/dean-students/student-outreach-support) is a service within the Dean of Students' office. SOS provides support to students who experience administrative, academic, or personal roadblocks. SOS works collaboratively with ODU's Care Team, and is here to help students achieve their personal and academic goals. You can contact SOS via <oducares@odu.edu>.
+
+## Collage Class Conduct
+The standards given below are intended to define acceptable classroom behavior that preserves academic integrity and ensures that students have optimum environmental conditions for effective learning.
+* Students must turn off cell phones during class or have them set to vibrate mode.
+* Classes are expected to begin on time, and students will respect the time boundaries established by the professor. If classroom doors are locked, students may not knock or seek entrance in other ways.
+* Students should notify instructors in advance when a class will be missed. In the event of an emergency that causes a class to be missed, instructors must be notified as soon as possible.
+* Instructors may require that cell phones and other electronic devices be left on their desks during tests or examinations.
+* Students must not engage in extraneous conversations during classes. Such acts are considered to be violations of the Code of Student Conduct.
+* Students will activate their Old Dominion e-mail accounts and check them before each class. If the student chooses to have his/her messages forwarded to another account, it is the student's responsibility to take the necessary steps to have them forwarded.
+* Consumption of food and drink during class is prohibited, except when the professor has specifically approved of such acts.
+* Offensive language, gestures and the like are disrespectful and disruptive to the teaching-learning process.
+
+## Honor Code
+The Old Dominion University Honor Code will be strictly enforced.  By attending Old Dominion University, you have signed a pledge accepting the responsibility to abide by the following Honor Code found at Office of Student Conduct and Academic Integrity.
+"We, the students of Old Dominion University, aspire to be honest and forthright in our academic endeavors. Therefore, we will practice honesty and integrity and be guided by the tenets of the Monarch Creed. We will meet the challenge to be beyond reproach in our actions and our words. We will conduct ourselves in a manner that commands the dignity and respect that we also give to others."  
+This is an institutional policy approved by the Board of Visitors. The University Honor Code applies to all assignments.
+
+## Honor Pledge
+"I pledge to support the honor system of Old Dominion University. I will refrain from any form of academic dishonesty or deception, such as cheating or plagiarism. I am aware that as a member of the academic community, it is my responsibility to turn in all suspected violators of the honor system. I will report to Honor Council hearings if summoned."
+By attending Old Dominion University, you have accepted the responsibility to abide by this code. This is an institutional policy approved by the Board of Visitors. For more information, please visit Policies and Student Responsibilities.
