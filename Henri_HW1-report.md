@@ -35,12 +35,12 @@ My favorite olympic sport is **men-s marathon**. _Kenya_ won the most number of 
 ### Parameters
 
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
-![This is the image of my marathon competitors in 2024 at Paris](https://github.com/odu-cs625-datavis/public-Spring25-aveerasa/commit/441ac9ab4780f993ab98ad95d0ee763c842635be)
+![This is the image of my marathon competitors in 2024 at Paris](https://github.com/odu-cs625-datavis/public-Spring25-aveerasa/pull/40/commits/441ac9ab4780f993ab98ad95d0ee763c842635be)
 
 ## Tableau
 
 *Insert the image of your horizontal bar chart here. Reminder, this should show countries that won the least number of medals only (excluding ZERO) in Paris2024 Summer Olynpics by continent (one country from each continent is ok).*
-![This is the image of my first chart on Tabeau](https://github.com/odu-cs625-datavis/public-Spring25-aveerasa/commit/6caef37058b5a959cbeb029131b1fde0c137b946)
+![This is the image of my first chart on Tabeau](https://github.com/odu-cs625-datavis/public-Spring25-aveerasa/pull/40/commits/6caef37058b5a959cbeb029131b1fde0c137b946)
 
 ## Google Colab
 
