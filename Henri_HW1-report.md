@@ -53,10 +53,13 @@ My favorite olympic sport is **men-s marathon**. _Kenya_ won the most number of 
 ![first image](https://github.com/Heritier1990/public-Spring25-aveerasa/commit/aa89d263c4018843d136748da8839c8a334418a7)
 
 *Describe what the figure is showing.*
+The image isscatterplot  representing the depth and length of the penguin's bill. Depth ranges from 0 to 25 mm, while length can reach 60 mm. The pattern of markings suggests that there are three main groups. In the first group, the bill has a depth of between 16 mm and 20 mm, with a length of between 35 mm and 42 mm. In the second group, the bill has a depth of between 5 and 16 mm and a length of between 42 and 52 mm. The rest of the small number of penguins have bill whose dimensions vary greatly from one penguin to another.
 
 *Insert the second penguin chart here*
 ![second image](https://github.com/Heritier1990/public-Spring25-aveerasa/commit/6bd28cef9724c1ee6c6e27acce08c5b65345a498)
+
 *Describe what the figure is showing.*
+The image depicts the body mass of three species - Adeline, Gentoo and Chinstrap - as a function of sex. It shows that, whatever the species, males are at least 500g heavier than females. What's more, the Gentoo weighs almost 1000g more than the Adélie and Chinstrap, which appear to have the same weight.
 
 *What happened when you removed the outer parentheses from the code? Why?*
 
