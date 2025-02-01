@@ -29,12 +29,13 @@ git push origin main
 
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.
 
-My favorite olympic sport is **men-s marathon**. _Kenya_ won the most number of gold medal in the men's marathon at the 2020 Tokyo Olympics. At Paris in 2024, ***Ethiopia*** won the most and obtained the  a new Olympic record of 2:06:26. To access that information, you need to type a code `sprint() ` when open the following link.
+My favorite olympic sport is **men-s marathon**. _Kenya_ won the most number of gold medal in the men's marathon at the 2020 Tokyo Olympics. At Paris in 2024, ***Ethiopia*** won the most and obtained the  a new Olympic record of 2:06:26. To access that information, you need to type a code `sprint() ` when open the following [link](https://www.olympics.com/en/news/paris-2024-all-results-as-ethiopia-tola-tamirat-takes-marathon-gold-with-olympic-record).
 
 *Create a level 3 heading*
 ### Parameters
 
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
+![This is the image of my marathon competitors in 2024 at Paris](‎marathon_image.JPEG.jpeg)
 
 ## Tableau
 
