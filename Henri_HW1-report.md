@@ -40,6 +40,7 @@ My favorite olympic sport is **men-s marathon**. _Kenya_ won the most number of 
 ## Tableau
 
 *Insert the image of your horizontal bar chart here. Reminder, this should show countries that won the least number of medals only (excluding ZERO) in Paris2024 Summer Olynpics by continent (one country from each continent is ok).*
+![This is the image of my first chart on Tabeau](‎least_medals_Paris2024O_lynpics_continent.png)
 
 ## Google Colab
 
