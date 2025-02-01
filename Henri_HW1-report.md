@@ -62,6 +62,7 @@ The image isscatterplot  representing the depth and length of the penguin's bill
 The image depicts the body mass of three species - Adeline, Gentoo and Chinstrap - as a function of sex. It shows that, whatever the species, males are at least 500g heavier than females. What's more, the Gentoo weighs almost 1000g more than the Adélie and Chinstrap, which appear to have the same weight.
 
 *What happened when you removed the outer parentheses from the code? Why?*
+When I remove the outer parentheses, I  encounter a syntax error, probably because Python does not recognize the code as a valid multiline expression.
 
 ## Observable and Vega-Lite
 
