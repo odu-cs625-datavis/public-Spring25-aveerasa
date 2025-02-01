@@ -50,11 +50,12 @@ My favorite olympic sport is **men-s marathon**. _Kenya_ won the most number of 
 ## Python/Seaborn
 
 *Insert the first penguin chart here*
+![first image](https://github.com/Heritier1990/public-Spring25-aveerasa/commit/aa89d263c4018843d136748da8839c8a334418a7)
 
 *Describe what the figure is showing.*
 
 *Insert the second penguin chart here*
-
+![second image](https://github.com/Heritier1990/public-Spring25-aveerasa/commit/6bd28cef9724c1ee6c6e27acce08c5b65345a498)
 *Describe what the figure is showing.*
 
 *What happened when you removed the outer parentheses from the code? Why?*
