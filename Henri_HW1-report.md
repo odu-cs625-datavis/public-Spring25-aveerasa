@@ -1,23 +1,38 @@
 # HW 1 - CS 625, Spring 2025
 
-Insert Your Name Here  
+Henri Simo Sepewou  
 Due: January 26, 2025
 
 ## Git, GitHub
 
 *What is the URL of the GitHub repo that you created in your personal account?*
+   The URL of my personal account is: https://github.com/Heritier1990/heritier_repo
    
 *What is pull vs clone in GitHub?*
-   
+clone copies the entire repository, whereas pull updates the local repository with changes made remotely. In addition, clone is used only once to create a local repository, whereas pull can be used every time something has been modified.  
+
 *You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
+I will will create a new commit that undoes the changes made in the last commit and push it to the remote repository by typing these commands git revert HEAD
+git push origin main
 
 ## Markdown
-
 *Create a bulleted list with at least 3 items*
+- Participant:She, her, them
+- Criteria:
+    - Height
+    - Weight
+    - Color
+- Countries:
+    - Cameroon
+    - Mali
+    - Burkina Faso
 
-*Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.*
+*Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.
+
+My favorite olympic sport is **men-s marathon**. _Kenya_ won the most number of gold medal in the men's marathon at the 2020 Tokyo Olympics. At Paris in 2024, ***Ethiopia*** won the most and obtained the  a new Olympic record of 2:06:26. To access that information, you need to type a code `sprint() ` when open the following link.
 
 *Create a level 3 heading*
+### Parameters
 
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
 
