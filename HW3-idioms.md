@@ -7,7 +7,7 @@ The goal of this assignment is to give you experience creating charts from real-
 
 ## Data
 
-You must choose your data from the [GitHub datasets](https://github.com/MainakRepositor/Datasets).
+You must choose your data from the [GitHub datasets 1](https://github.com/MainakRepositor/Datasets) or [GitHub datasets 2](https://github.com/odu-cs625-datavis/public-Spring25-aveerasa/blob/main/data%20sources_2025.md) 
 
 Here are some tips for dealing with the data:
 
