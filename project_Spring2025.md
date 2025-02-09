@@ -22,8 +22,8 @@ Detailed requirements will be found below (genral guidelines):
 
 * This is an individual assignment. No group work allowed.
 * You may use any tool of your choice to perform your data cleaning and exploratory analysis.
-* If you are a Computer Science MS or PhD student, you must use either Python or Vega-Lite to build your final chart. Otherwise, you may use any tool of your choice to build your final charts. Similarly, students that from other streams (departments) MUST implement 50% of coding at least to build chart(s).
-* The goal is to present your key findings from your chosen topic. Although you may do exploratory analysis to understand your data, your visualization should focus on showing the audience what you learned/identified/patterns and more. So, I expect to see high-quality charts produced with detail in this project.
+* If you are a Computer Science or PhD student, you must use either Python or Vega-Lite or both to build your final chart. Similarly, students that from other streams (departments) MUST implement 50% of coding at least to build chart(s) and may use any tool of their choice to build their final charts.
+* The goal is to present your key findings from your chosen topic. Although you may do exploratory analysis to understand your data, your visualization should focus on showing the audience what you learned/identified/patterns and more. So, I expect to see high-quality charts produced with detail in this project that pushes relavnat stakeholders to take sense making decisions.
 
 ## Milestone 1 - Topic/Datasets/Questions
 
