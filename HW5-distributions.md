@@ -1,6 +1,6 @@
 # Homework 5: Analyzing Data Using Distribution Charts
 
-**Due:** Sunday, November 3, 2024 by 11:59pm  
+**Due:** Sunday, March 23, 2025 by 11:59pm  
 
 The goal of this assignment is gain experience creating distribution charts (histogram, eCDF, boxplot) and using them to help guide further analysis of the underlying data.
 
@@ -99,7 +99,7 @@ You should be working in the private GitHub repo that was created for you in the
 
 Submit the URL of your report (not the URL of your repo) in Canvas under HW5. This should be something like
 
-`https://github.com/odu-cs625-datavis/fall24-aveerasa-username/blob/main/HW5-report.md`
+`https://github.com/odu-cs625-datavis/spring25-aveerasa-username/blob/main/HW5-report.md`
 
 *If you make changes to your report after submitting in Canvas, we will use the last commit time in your repo as your assignment submission time.*
 
